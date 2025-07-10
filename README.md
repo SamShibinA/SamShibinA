@@ -5,9 +5,11 @@
   <a href="https://www.linkedin.com/in/sam-shibin-a-ba9ab3326/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://leetcode.com/u/shibin_1125_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+  
   <a href="https://www.hackerrank.com/profile/samshibin1125">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
@@ -23,6 +25,7 @@
 
 
 ---
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -39,6 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
 </p>
+
 ---
 
 ### 🎯 What I'm Working On
